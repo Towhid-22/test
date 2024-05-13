@@ -1,0 +1,2 @@
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos facilis cum dolore id. Fugiat iure corrupti ad necessitatibus aliquid et.
+You’ve decided that you’re going to work on issue #53 in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the
